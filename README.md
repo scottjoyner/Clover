@@ -1,7 +1,13 @@
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** The following README is credited to the RehabMan Clover fork and describes that project's branches, history, and features. Hosting a copy at `scottjoyner/Clover` does not establish authorship of the original bootloader changes or provide a supported release.
-> 
-> **Before use:** Bootloader changes can render a system unbootable. Confirm exact hardware and firmware compatibility, maintain backups and recovery media, and prefer the original project's verified build guidance.
+## Repository guide
+
+**Repository context:** The following README is credited to the RehabMan Clover fork and describes that project's branches, history, and features. Hosting a copy at `scottjoyner/Clover` does not establish authorship of the original bootloader changes or provide a supported release.
+
+**Before use:** Bootloader changes can render a system unbootable. Confirm exact hardware and firmware compatibility, maintain backups and recovery media, and prefer the original project's verified build guidance.
+
+### Find your way
+
+- [Clover fork by RehabMan](#clover-fork-by-rehabman)
 <!-- repo-entrypoint-guide:end -->
 
 ## Clover fork by RehabMan
