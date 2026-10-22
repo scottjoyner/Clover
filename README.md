@@ -1,3 +1,9 @@
+<!-- repo-entrypoint-guide:start -->
+> **Repository context:** The following README is credited to the RehabMan Clover fork and describes that project's branches, history, and features. Hosting a copy at `scottjoyner/Clover` does not establish authorship of the original bootloader changes or provide a supported release.
+> 
+> **Before use:** Bootloader changes can render a system unbootable. Confirm exact hardware and firmware compatibility, maintain backups and recovery media, and prefer the original project's verified build guidance.
+<!-- repo-entrypoint-guide:end -->
+
 ## Clover fork by RehabMan
 
 This github project is a fork of the Clover bootloader/boot manager.
